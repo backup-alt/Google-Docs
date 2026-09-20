@@ -1,0 +1,14 @@
+# Local tooling / machine-specific config
+.claude/
+.claude-code/
+.dist/
+.openai/
+.vscode/
+
+# Build/test output
+artifacts/
+node_modules/
+
+# OS
+Thumbs.db
+.DS_Store
